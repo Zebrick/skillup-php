@@ -21,3 +21,4 @@ var age = '25';
 var str = 'Мне ';
 var str1 = ' лет!';
 alert(str+age+str1);
+/*Спасибо за внимание:)*/
